@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games and playing sports
 - 🌱 I’m currently learning electrical engineering
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me, don't
+- 📫 How to reach me, aschnuck@purdue.edu
 
 <!---
 aschnuck/aschnuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
